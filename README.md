@@ -1,53 +1,30 @@
-# Hi, I'm Vishal Kumar Singh 👋
+# Vishal Kumar Singh
 
-### Student • Developer • Creator
+**Student & Developer**
 
-I’m a student and developer interested in building useful software, exploring AI, and turning ideas into practical projects.
+I build software, experiment with new technologies, and document what I learn along the way.
 
-I enjoy learning by building — from small experiments to complete applications.
+My current interests include application development, AI, automation, and practical tools that solve everyday problems.
 
----
+## Selected Work
 
-## 🚀 What I'm Working On
+### Financer
+A personal finance application focused on simple expense and income tracking for students.
 
-- 💻 Building and experimenting with software projects
-- 🤖 Exploring AI-powered applications and developer tools
-- 📚 Continuously learning and improving my development skills
-- 🎨 Creating digital content around technology and creativity
+**Status:** In development
 
----
+## Interests
 
-## 🛠️ Areas of Interest
+- Application development
+- Artificial intelligence
+- Automation
+- Developer tools
+- Creative technology
 
-- Software Development
-- AI & AI-powered Applications
-- Web & Application Development
-- Automation & Productivity Tools
-- Creative Technology
+## Connect
 
----
-
-## 📌 Featured Project
-
-### **Financer**
-A student-focused personal finance tracker designed to make managing income, expenses, and financial activity simple and organized.
-
-> More projects and experiments will be added here as they develop.
+[YouTube](https://www.youtube.com/@Vishal_KumarSingh) · [Instagram](https://www.instagram.com/_vishal.kr.singh_/)
 
 ---
 
-## 🌐 Find Me Online
-
-- **YouTube:** [Vishal Kumar Singh](https://www.youtube.com/@Vishal_KumarSingh)
-- **Instagram:** [@_vishal.kr.singh_](https://www.instagram.com/_vishal.kr.singh_/)
-
----
-
-## 📊 GitHub
-
-I use GitHub to build, experiment, learn, and share projects.
-
----
-
-### 💡 *Build. Learn. Improve. Repeat.*
-
+*This profile is a work in progress.*
